@@ -27,13 +27,13 @@ Projects are listed in ascending order starting from the begining of Makers Acad
 	- DRY code, SOLID and TDD
 	- JavaScript ES6
 	- RESTFul api design -> Ruby on rails 
-  - Version control with git and GitHub
+        - Version control with git and GitHub
 
 	**--- proficient ---**
   
-  - JavaScript
+        - JavaScript
 	- Ruby
-  - Ruby on Rails 
+        - Ruby on Rails 
 	- Sinatra
 	- Deployment with Heroku
 	- HTML
@@ -42,7 +42,7 @@ Projects are listed in ascending order starting from the begining of Makers Acad
 	**--- dabbled ---**
 
 	- JQuery
-  - React
+        - React
 	- Node.js
 
 ## <a name="education"> Education </a>
