@@ -47,7 +47,7 @@ Projects are listed in ascending order starting from the begining of Makers Acad
 
 ## <a name="education"> Education </a>
 
-#### Makers Academy (June 2019 to October 2017)
+#### Makers Academy (June 2019 to October 2019)
 
 16 week highly selective, intensive bootcamp in software/web development, encompassing the most widely used languages and frameworks. Special emphasis on good software craftsmanship and the ability to write well tested, clean and maintainable code. My studies have taken me beyond the standard curriculum:  
 
@@ -87,13 +87,6 @@ Projects are listed in ascending order starting from the begining of Makers Acad
 - Placed orders for tires and rims according to replenishment specifications.
 - Managed sales figures, market research, logistics, and transportation costs.
 
-
-**Inventis.ma - Aug 2013 - May 2014** 
-
-*Business Analyst*
-
-- Acted as the main liaison between product owners and the team.
-- Developed acceptance criteria and user stories for the team.
 
 ## <a name="contact"> Contact  </a>
 You can get hold of me on [LinkedIn]( linkedin.com/in/imane-ben-89820a9a) or via email: imaneben8@gmail.com
