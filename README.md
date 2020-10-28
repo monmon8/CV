@@ -31,8 +31,9 @@ Projects are listed in ascending order starting from the begining of Makers Acad
        
 	**--- proficient ---**
   
-	- Ruby
 	- JAvaScript
+	- React
+	- Ruby
 	- Ruby on Rails 
 	- Sinatra
 	- Deployment with Heroku
@@ -42,7 +43,6 @@ Projects are listed in ascending order starting from the begining of Makers Acad
 	**--- dabbled ---**
 
 	- JQuery
-	- React
 	- Node.js
 
 ## <a name="education"> Education </a>
